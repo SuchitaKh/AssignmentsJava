@@ -6,6 +6,7 @@ public class PrintRandomNum {
 
         System.out.println(Math.random());
 
-        System.out.println("HI How are you!!");
+        //System.out.println("HI How are you!!");
+
     }
 }
