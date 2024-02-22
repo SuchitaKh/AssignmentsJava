@@ -24,8 +24,8 @@ public class StringFunctions {
         for (int i = 0; i < name2.length; i++) {
             System.out.println(name2[i]);
         }
-      String fn= "Ravi";
-        String ln="Ravi";
+      String fn= "Rayaansh";
+        String ln="Rayaansh";
 
         System.out.println(fn.equals(ln));
         System.out.println(fn.hashCode());
